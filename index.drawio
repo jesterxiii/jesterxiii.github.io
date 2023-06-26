@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:46:10.260Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="NOqLaZpVfsdLpplMJlnt" version="21.5.0" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-26T16:36:08.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="M967AN0ldDjwZr1pUUdW" version="21.5.0" type="github">
   <diagram name="Overview" id="NfcyxsMAp8oJkiD7tQFO">
-    <mxGraphModel dx="1176" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
           <mxGeometry x="530" y="701" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tnSydGiNR0952dzmjaRM-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="681" width="240" height="99" as="geometry" />
+          <mxGeometry x="60" y="681" width="270" height="99" as="geometry" />
         </mxCell>
         <mxCell id="tnSydGiNR0952dzmjaRM-43" value="Account optimization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="681" width="130" height="30" as="geometry" />
@@ -118,19 +118,19 @@
         <mxCell id="tnSydGiNR0952dzmjaRM-47" value="Trading Post" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="799" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnSydGiNR0952dzmjaRM-48" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gw2efficiency.com/tradingpost&quot;&gt;gw2efficiency&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.gw2bltc.com/&quot;&gt;gw2bltc&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tnSydGiNR0952dzmjaRM-48" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gw2efficiency.com/tradingpost&quot;&gt;gw2efficiency&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.gw2bltc.com/&quot;&gt;gw2bltc&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.gw2craftgold.com/&quot;&gt;gw2craftgold&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="829" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnSydGiNR0952dzmjaRM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tnSydGiNR0952dzmjaRM-31" target="tnSydGiNR0952dzmjaRM-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="24.509999999999998" y="950" width="801.99" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-2" value="&lt;div&gt;Discord&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-2" value="&lt;div&gt;Discord&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="46" y="953" width="102.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="tnSydGiNR0952dzmjaRM-41" target="0aPemlD-rOzJamQj-Rix-12">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="tnSydGiNR0952dzmjaRM-41" target="0aPemlD-rOzJamQj-Rix-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="720" as="sourcePoint" />
             <Array as="points">
@@ -139,16 +139,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="800" width="251" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="980" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-9" value="&lt;div&gt;Killproof&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-9" value="&lt;div&gt;Killproof&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="800" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0aPemlD-rOzJamQj-Rix-10" target="tnSydGiNR0952dzmjaRM-10">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="0aPemlD-rOzJamQj-Rix-10" target="tnSydGiNR0952dzmjaRM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="838" />
@@ -156,10 +156,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-10" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://killproof.me/&quot;&gt;killproof.me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2wingman.nevermindcreations.de/kp/&quot;&gt;gw2wingman&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-10" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://killproof.me/&quot;&gt;killproof.me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2wingman.nevermindcreations.de/kp/&quot;&gt;gw2wingman&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="830" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnSydGiNR0952dzmjaRM-31" target="0aPemlD-rOzJamQj-Rix-12">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tnSydGiNR0952dzmjaRM-31" target="0aPemlD-rOzJamQj-Rix-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="536" />
@@ -167,20 +167,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-4" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.aleeva.io/&quot;&gt;Aleeva&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2bot.info/&quot;&gt;GW2Bot&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-4" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.aleeva.io/&quot;&gt;Aleeva&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2bot.info/&quot;&gt;GW2Bot&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="62.5" y="1000" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-14" value="Bots" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-14" value="Bots" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="975" width="179" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-16" value="Rich presence" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-16" value="Rich presence" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="980" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0aPemlD-rOzJamQj-Rix-17" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gw2rpc.info/&quot;&gt;gw2rpc&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://new.blishhud.com/modules/?module=bh.general.discordrp&quot;&gt;blish hud module&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0aPemlD-rOzJamQj-Rix-17" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gw2rpc.info/&quot;&gt;gw2rpc&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://new.blishhud.com/modules/?module=bh.general.discordrp&quot;&gt;blish hud module&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="1010" width="147" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JwRadQoxSzz_BxgRk1Un-1" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://immortius.xyz/wardrobe-unlock-analyser/&quot;&gt;gw2 wardrobe analyzer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2est.com/&quot;&gt;every single thing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2fish.com/&quot;&gt;fish&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="721" width="161" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
