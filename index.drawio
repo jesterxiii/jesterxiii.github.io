@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net" modified="2023-06-26T15:46:10.260Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="NOqLaZpVfsdLpplMJlnt" version="21.5.0" type="device">
+  <diagram name="Overview" id="NfcyxsMAp8oJkiD7tQFO">
+    <mxGraphModel dx="1176" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="295" y="20" width="261" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://wiki.guildwars2.com/images/d/df/GW2Logo_new.png;" parent="1" vertex="1">
+          <mxGeometry x="339" y="40" width="158.01" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-4" value="&lt;a href=&quot;https://account.arena.net/applications&quot;&gt;GW2 API Key&lt;/a&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-6" value="Official" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="28.01" y="241" width="801.99" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="281" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-9" value="3rd party downloadable applications" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="251" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tnSydGiNR0952dzmjaRM-10" target="tnSydGiNR0952dzmjaRM-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="321" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-11" value="Mods and plugins" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="281" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-12" value="arcdps" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="321" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-13" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.deltaconnected.com/arcdps/&quot;&gt;arcdps&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table&quot;&gt;arcdps boon table&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Krappa322/arcdps_healing_stats&quot;&gt;arcdps healing stats&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/knoxfighter/arcdps-killproof.me-plugin&quot;&gt;arcdps killproof-me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log&quot;&gt;arcdps mechanics&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="341" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-14" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Friendly0Fire/GW2Radial&quot;&gt;GW2 Radial&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65" y="426" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="531" y="281" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-18" value="Overlays (MumbleLink)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="531" y="281" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-19" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://blishhud.com/&quot;&gt;blish hud&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.gw2taco.com/&quot;&gt;taco&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="531" y="306" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-20" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="529" y="401" width="244" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tnSydGiNR0952dzmjaRM-21" target="tnSydGiNR0952dzmjaRM-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-21" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="60" y="501" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-22" value="Mod Download Managers" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="75" y="511" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-23" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/gw2-addon-loader/GW2-Addon-Manager&quot;&gt;Unofficial Addon Manager&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://plenbot.net/uploader/&quot;&gt;Plenbot&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="531" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-24" value="Logs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="529" y="401" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="552" y="431" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-25" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/baaron4/GW2-Elite-Insights-Parser&quot;&gt;Elite Insights Parser&lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="552" y="451" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-28" value="Viewers" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="552" y="431" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="552" y="501" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-30" value="Uploaders" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="552" y="501" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-31" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://plenbot.net/uploader/&quot;&gt;Plenbot&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2wingman.nevermindcreations.de/uploader&quot;&gt;gw2wingman&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="552" y="521" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="24.5" y="641" width="801.99" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-37" value="Web apps" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="641" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="529" y="671" width="251" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-39" value="Logs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="529" y="671" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-41" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://dps.report/&quot;&gt;dps.report&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2wingman.nevermindcreations.de&quot;&gt;gw2wingman&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://snowcrows.com/guides/starting-to-raid/special-forces-area&quot;&gt;Snowcrows bench setup&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="701" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="681" width="240" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-43" value="Account optimization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="681" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-44" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gw2efficiency.com/&quot;&gt;gw2efficiency&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://fast.farming-community.eu/&quot;&gt;fast.farming&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2lunchbox.com/&quot;&gt;gw2lunchbox&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2crafts.net/&quot;&gt;gw2crafts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="721" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="799" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-47" value="Trading Post" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="799" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-48" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gw2efficiency.com/tradingpost&quot;&gt;gw2efficiency&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.gw2bltc.com/&quot;&gt;gw2bltc&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="829" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tnSydGiNR0952dzmjaRM-31" target="tnSydGiNR0952dzmjaRM-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="24.509999999999998" y="950" width="801.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-2" value="&lt;div&gt;Discord&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="46" y="953" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="tnSydGiNR0952dzmjaRM-41" target="0aPemlD-rOzJamQj-Rix-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="746" />
+              <mxPoint x="350" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="800" width="251" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="980" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-9" value="&lt;div&gt;Killproof&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0aPemlD-rOzJamQj-Rix-10" target="tnSydGiNR0952dzmjaRM-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="838" />
+              <mxPoint x="390" y="396" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-10" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://killproof.me/&quot;&gt;killproof.me&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2wingman.nevermindcreations.de/kp/&quot;&gt;gw2wingman&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnSydGiNR0952dzmjaRM-31" target="0aPemlD-rOzJamQj-Rix-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="536" />
+              <mxPoint x="340" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-4" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.aleeva.io/&quot;&gt;Aleeva&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://gw2bot.info/&quot;&gt;GW2Bot&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="1000" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-14" value="Bots" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="975" width="179" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-16" value="Rich presence" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="980" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0aPemlD-rOzJamQj-Rix-17" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gw2rpc.info/&quot;&gt;gw2rpc&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://new.blishhud.com/modules/?module=bh.general.discordrp&quot;&gt;blish hud module&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="1010" width="147" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
